@@ -1,0 +1,6 @@
+https://notepad-plus-plus.org/repository/7.x/7.2/npp.7.2.Installer.x64.exe
+I add some thing
+now ,I will try to add some thing
+I will try add of first,then commit
+Git tracks changes.
+Git tracks changes.
